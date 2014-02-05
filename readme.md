@@ -11,3 +11,8 @@ Create a s3 bucket for this system and ...
     sudo ./start_docker.sh
 
 
+## Thanks to
+
+* https://github.com/gyazo/Gyazo
+* https://github.com/udzura/upload.cgi
+
